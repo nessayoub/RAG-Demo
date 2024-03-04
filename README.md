@@ -24,7 +24,7 @@ This repository contains code for a Menu Query System implemented using the RAG 
    - Clone this repository:
      ```
      git clone https://github.com/nessayoub/RAG-Demo.git
-     cd menu-query-system
+     cd RAG-Demo
      ```
 
 2. **Running the System**:
